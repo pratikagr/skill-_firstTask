@@ -1,0 +1,43 @@
+*{
+  
+    font-family:'Poppins', sans-serif;
+  
+}
+.form{
+
+    transform: translate(20%,20%);
+
+    
+}
+#button{
+   
+    text-transform: uppercase;
+}
+#choose{
+background-color: #dae4fc;
+border-radius: 5px;
+border: 1px;
+}
+
+.data{
+    background-color:#e6edfc;
+    width: 20%;
+    border-radius: 5px;
+    border: 1px;
+    height: 30px;
+}
+button{
+    background-color:#dae4fc;
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px;
+margin-left: 50px;
+margin-top: 10px;
+}
+.radios{
+    left: 100px;
+    top: 20px;
+
+}
